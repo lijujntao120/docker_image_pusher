@@ -1,1 +1,1 @@
-phoenixframework/phoenix
+nginx
